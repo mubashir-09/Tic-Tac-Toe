@@ -113,4 +113,3 @@ function startGame() {
 }
 
 
-document.head.appendChild(style);
