@@ -112,6 +112,8 @@ function startGame() {
     document.getElementById('startModal').style.display = 'none';
 }
 
-
+function exitGame() {
+    window.close();
+}
 
 document.head.appendChild(style);
